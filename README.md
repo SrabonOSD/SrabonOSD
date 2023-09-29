@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srabonosd&show_icons=true&locale=en" alt="srabonosd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srabonosd&" alt="srabonosd" /></p>
+<p><img align="center" src="![image](https://github.com/SrabonOSD/SrabonOSD/assets/130116421/d791929a-3066-4f39-a29e-87352ffddba6)
+" alt="srabonosd" /></p>
